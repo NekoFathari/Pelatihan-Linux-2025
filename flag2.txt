@@ -1,1 +1,0 @@
-FLAG{hasil_puzzle}
